@@ -1,8 +1,8 @@
 
 # 🐍 Curso em Vídeo – Python (Mundo 1) adaptado para C/Assembly
 
-Lista de exercícios do **Mundo 1 - Fundamentos da Programação** do Curso em Vídeo, adaptados para prática em **linguagem C** e, futuramente, **Assembly**.  
-Use esta lista para acompanhar o progresso dos estudos.
+Lista de exercícios do **Mundo 1 - Fundamentos da Programação** do Curso em Vídeo,  para prática em **linguagem C** e **Assembly**.  
+Lista para acompanhar o progresso dos estudos.
 
 ---
 
