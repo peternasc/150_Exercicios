@@ -1,0 +1,6 @@
+# Arquivos binarios comuns
+
+*.exe
+*.o
+*.out
+*.bin
