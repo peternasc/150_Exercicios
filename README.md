@@ -8,8 +8,8 @@ Lista para acompanhar o progresso dos estudos.
 
 ## ✅ Aula 6 – Tipos Primitivos e Saída de Dados
 
-- [ ] Ex001 – Escreva “Olá, Mundo!” na tela
-- [ ] Ex002 – Leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
+- [x] Ex001 – Escreva “Olá, Mundo!” na tela
+- [x] Ex002 – Leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
 - [ ] Ex003 – Leia dois números e mostre a soma entre eles
 - [ ] Ex004 – Leia algo e mostre o tipo primitivo e informações sobre ele
 
