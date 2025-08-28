@@ -1,3 +1,7 @@
+; 001. **Olá e nome.** Imprima 'Olá, mundo!' e pergunte o nome; mostre 'Bem-vindo, <nome>'
+
+
+
 section .data
     msg1 db 'Ola, mundo!', 10
     len1 equ $ - msg1
