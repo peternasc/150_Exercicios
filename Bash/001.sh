@@ -4,5 +4,5 @@
 
 echo "Ola mundo"
 echo "Digite seu nome:"
-read -r nome
+read -r nome # -r para que ele não interprete caracters de escape
 echo "Bem vindo, $nome."
